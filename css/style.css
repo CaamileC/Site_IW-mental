@@ -27,16 +27,19 @@ h2 {
 
 h3 {
   font-size: 20px;
+  color: black;
 }
 
 h4 {
   font-size: 18px;
+  color: #fff;
 }
 
 p {
   color: #7B7B7B;
   font-size: 15px;
   font-family: "Roboto", sans-serif;
+  text-align: justify;
 }
 
 ol, ul {
